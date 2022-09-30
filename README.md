@@ -1,2 +1,5 @@
-# Hw-1
-First homework
+# Homework One - Horiseon Digital Marketing
+
+This discipline was designed in order for students to understand how to follow along the existing code and improve upon what is already there. These improvements are called code refactoring, which makes the website optimized for quest engines, user readibility, and code sensibility. Going beyond the code without making significant changes to the view of the website is the fundamental goal of this challenge, refactoring it as simply as possible. As a student, I had to change more than the HTML and changed tags & elements that are more suitable for the HTML readibility for search engines besides user usability. Some tags were changed that hold better use to the content that they had to portray. Alts were included to img to aid user accessibility. I then pushed past the CSS and refactored some of the accessible code to make the "cascading" element of CSS work in a thoughtful manner. Some repetetive code was combined into one block of code in order to get rid of the repetitive and help whoever would work on the code later be able to manipulate one selector instead of three different ones that basically do the same thing.
+
+Text comments were added into the HTML as well as the CSS so that developers working on this code after I've worked on it will know what has changed and will be able to change back to the default HTML and CSS.
